@@ -17,5 +17,5 @@
             "rank": 1
         }
     },
-    "type": "client_side"
+    "type": "server_side"
 }
