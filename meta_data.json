@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "Go back to the top of the webpage immediately.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1654412211713x221383042201569470/ScrollUp.jpg",
+    "license": "open_source",
+    "name": "ScrollUp",
+    "plugin_instructions": "In workflow, add an action \"scrollup\" when a element is clicked."
+}

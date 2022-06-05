@@ -1,0 +1,21 @@
+{
+    "category": "plugins",
+    "display": "scrollup",
+    "fields": {
+        "AAD": {
+            "caption": "PointX",
+            "default_val": 0,
+            "editor": "StaticNumber",
+            "name": "pointx",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "PointY",
+            "default_val": 0,
+            "editor": "StaticNumber",
+            "name": "pointy",
+            "rank": 1
+        }
+    },
+    "type": "client_side"
+}
